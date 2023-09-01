@@ -71,3 +71,13 @@
     font-weight: 580;
 
 }
+
+
+.gri{
+    display: grid;
+    grid-template-columns:1fr 2fr 1fr;
+}
+
+.who{
+    margin-bottom: 80px;;
+}
